@@ -1,1 +1,11 @@
-.idea
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm и Jupyter
+.idea/
+.ipynb_checkpoints/
+
+# Локальные переменные окружения
+.env

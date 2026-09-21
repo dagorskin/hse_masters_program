@@ -8,3 +8,8 @@ dependencies = [
     "matplotlib>=3.11.1",
     "pandas>=3.0.5",
 ]
+
+[dependency-groups]
+dev = [
+    "pip>=26.2.1",
+]
